@@ -1,0 +1,12 @@
+android/frameworks/base/api/current.txt
+android/frameworks/base/core/java/android/os/TopwiseConfig.java
+android/packages/apps/Settings/res/drawable-hdpi/ic_settings_powersave_brightness.png
+android/packages/apps/Settings/res/drawable-mdpi/ic_settings_powersave_brightness.png
+android/packages/apps/Settings/res/layout/dialog_adjust_brightness.xml
+android/packages/apps/Settings/res/values/strings.xml
+android/packages/apps/Settings/res/values-zh-rCN/strings.xml
+android/packages/apps/Settings/res/xml/powersave_settings.xml
+android/packages/apps/Settings/res/xml/settings_headers.xml
+android/packages/apps/Settings/src/com/android/settings/Settings.java
+android/packages/apps/Settings/src/com/android/settings/powersave
+android/packages/apps/Settings/src/com/android/settings/powersave/PowerSaveModeSettings.java
